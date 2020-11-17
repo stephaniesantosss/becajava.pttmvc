@@ -1,0 +1,34 @@
+1)É correto afirmar que o MVC é uma Arquitetura modular ?
+R: Sim, uma das principais vantagens da Arquitetura MVC é que ela permite
+o desenvolvimento paralelo sem afetar as demais camadas.
+
+fonte:https://pt.wikipedia.org/wiki/MVC
+___________________________________________________________________________
+2)V ou F:As camadas Entity, Repository e Service não fazem parte da arquitetura MVC.
+
+R: Falso, ao trabalhar com MVC trata-se de uma boa prática separar a camada Model
+em outras subcamadas como Entity(model), Repository, Service.
+
+fonte:https://devking.com.br/blog/entenda-o-que-e-e-como-usar-mvc
+___________________________________________________________________________
+3)Qual o tipo de protocolo utilizado por uma View para realizar suas requisições ? 
+R: O protocolo de requisição utilizado para requisições é o HTTP
+
+fonte:https://devking.com.br/blog/entenda-o-que-e-e-como-usar-mvc
+
+___________________________________________________________________________
+4)Sabemos que dentro da Arquitetura MVC temos 3 camadas View, Controller e Model,
+entre elas temos o fluxo de interações:Eventos do usuário, Chamada à logica de Negócio
+Resultado do Processamento, Dados para visualização.Quais destas interações são realizadas pela Controller ?
+R: Chamada à logica de Negócio e Resultado do Processamento.
+
+fonte:https://www.devmedia.com.br/padrao-mvc-java-magazine/21995#2
+
+___________________________________________________________________________
+5) V ou F: As alterações na camada de visualização afetam as regras de negócios já implementadas na camada de modelo.
+R: Falso
+
+fonte: https://www.devmedia.com.br/padrao-mvc-java-magazine/21995#2
+
+
+*Usei os artigos das fontes para desenvolver as perguntas.
